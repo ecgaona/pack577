@@ -33,8 +33,6 @@
           case "AOL":
             $den_id = 6;
             break;
-          default:
-            $den_id = 0;
         }
         $requirements = $con->real_escape_string($_POST['requirements']);
         $sql = "UPDATE attendance SET requirements = '$requirements' WHERE den = $den_id AND signin_date = '$date'";
