@@ -1,6 +1,6 @@
 <?php
 define('HOSTNAME','localhost');
-define('DB_USERNAME','cubmaster');
+define('DB_USERNAME','##########');
 define('DB_PASSWORD','##########');
 define('DB_NAME', 'pack577');
 
