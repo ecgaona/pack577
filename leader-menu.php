@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="scss/custom.min.css" rel="stylesheet">
-    
+
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script>
+    // Toggles options between inputting requirements and pulling attendance/view requirements report
 	  jQuery(function(){
 		jQuery('.showSingle').click(function(){
 		$('.targetDiv').not('#div' + $(this).attr('target')).hide();
@@ -23,6 +24,8 @@
       <h1>Scout Leader Menu</h1>
       <button type="button" class="btn btn-primary showSingle" target="1">Enter Requirements</button>
       <button type="button" class="btn btn-warning showSingle" target="2">View Attendance/Requirements</button>
+
+      <!-- Enter requirements -->
       <div id="div1" class="targetDiv mt-3" style="display:none;">
         <form method="post" action="input-requirements.php">
           <div class="form-row">
@@ -32,7 +35,7 @@
                 <option selected="" disabled="">Select Den</option>
                 <?php
                   include("db.php");
-    			  $sql = "SELECT * FROM dens";
+    			        $sql = "SELECT * FROM dens";
                   $res = mysqli_query($con, $sql);
                   if(mysqli_num_rows($res) > 0) {
                     while($row = mysqli_fetch_object($res)) {
@@ -59,6 +62,8 @@
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
       </div>
+
+      <!-- Pull attendance/requirements report -->
       <div id="div2" class="targetDiv mt-3" style="display:none;">
         <form method="post" action="attendance-report.php">
           <div class="form-row">

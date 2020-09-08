@@ -13,6 +13,7 @@
         include("db.php");
         $den_id = $_POST['dens'];
         $date = $_POST['date'];
+        // Converts den name to den id for data insert
         switch ($den_id) {
           case "Lion":
             $den_id = 1;
@@ -42,8 +43,9 @@
           echo "Requirements recorded.";
           echo "</div>";
           $con->close();
+          // Redirects back to Leader Menu after 2 seconds
           header("refresh:2;url=leader-menu.php");
-        } 
+        }
         else {
           echo "<div class='alert alert-danger mt-4' role='alert'>";
           echo "Error: " . $sql . "<br>" . $con->error;

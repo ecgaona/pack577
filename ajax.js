@@ -1,3 +1,4 @@
+// Creates a dependent dropdown menu for scouts based on dens.
 $(document).ready(function() {
   $("#den").change(function() {
     var den_id = $(this).val();

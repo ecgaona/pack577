@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link href="scss/custom.min.css" rel="stylesheet">
-  
+
   </head>
 
   <body>
@@ -20,7 +20,7 @@
                 echo "<div class='alert alert-success' role='alert'>";
                 echo "<strong>" . $name . "</strong>" . " is now signed in.";
                 echo "</div>";
-              } 
+              }
               else {
                 echo "<div class='alert alert-danger' role='alert'>";
                 echo "Error: " . $sql . "<br>" . $con->error;
@@ -28,6 +28,7 @@
               }
           }
         $con->close();
+        // Reverts back to Sign In page after 2 seconds
         header( "refresh:2;url=signin.php" );
  	    }
       ?>
