@@ -2,7 +2,7 @@
 // Database parameters (username & password blanked out for security purposes)
 define('HOSTNAME','localhost');
 define('DB_USERNAME','root');
-define('DB_PASSWORD','szeTbMXd');
+define('DB_PASSWORD','########');
 define('DB_NAME', 'pack577');
 
 // Connect to database
