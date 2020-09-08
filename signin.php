@@ -8,13 +8,14 @@
 
     <link href="scss/custom.min.css" rel="stylesheet">
     <link href="scss/signin.css" rel="stylesheet">
-    
+
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="ajax.js"></script>
-    
+
   </head>
 
   <body class="text-center">
+    <!-- Signin Form -->
     <form class="form-signin" action="record-attendance.php" method="post">
       <h1>Pack 577</h1>
       <img class="mb-4" src="images/logo.png" alt="" width="72" height="72">
@@ -23,6 +24,7 @@
       <select class="form-control mb-3" name="den" id="den">
       <option value='' disabled="">---Select Den---</option>
         <?php
+            // Retrieve list of dens
             include("db.php");
             $sql = "SELECT * FROM dens";
             $res = mysqli_query($con, $sql);
@@ -34,6 +36,7 @@
             $con->close();
         ?>
       </select>
+      <!-- Select multiple scouts to sign in at one time  -->
       <label for="scout" class="sr-only">Scout:</label>
       <select multiple class="form-control mb-3" name="scout[]" id="scout">
       <option disabled="">---Select Scout---</option>

@@ -12,7 +12,8 @@
     <div class="container">
       <?php
         include("db.php");
-	    if(isset($_POST['submit'])) {
+        // Record attendance
+	      if(isset($_POST['submit'])) {
           $den = $_POST['den'];
           foreach ($_POST['scout'] as $name) {
             $sql = "INSERT INTO attendance (scout_name, den, signin_date, signin_time) VALUES('$name', '$den', CURRENT_DATE, CURRENT_TIME)";

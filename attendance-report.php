@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Attendance Report</h1>
+      <h1>Attendance & Requirements Report</h1>
       <p>Type in text box below to filter search:</p>
       <input class="form-control" id="filter" type="text" placeholder="Search..."><br>
       <table class="table table-sm table-striped">
@@ -28,6 +28,7 @@
       </thead>
       <tbody id="report">
         <?php
+          // Generate Attendance & Requirements Report
           include('db.php');
           $date1 = $_POST['date1'];
           $date2 = $_POST['date2'];
@@ -50,7 +51,7 @@
       </tbody>
     </table>
     <script>
-      //Filter table results
+      // Filter table results
       $(document).ready(function(){
         $("#filter").on("keyup", function() {
           var value = $(this).val().toLowerCase();
@@ -60,6 +61,7 @@
         });
       });
     </script>
+    <!-- Print report -->
     <button type="button" class="btn btn-primary" onclick="window.print()">Print</button>
     <button type="button" class="btn btn-warning" onclick="history.back()">Back</button>
     </div>
