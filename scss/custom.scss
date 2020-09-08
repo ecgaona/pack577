@@ -1,0 +1,41 @@
+$theme-colors: (
+  "primary": #003F87,
+  "warning": #FCD116,
+);
+
+$navbar-dark-active-color: (
+  #f8ce00,
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1, h2, h4, h5 {
+  color: #003F87;
+}
+
+p {
+  font-family: 'Roboto', serif;
+  text-align: justify;
+}
+
+li:not(.nav-item), td {
+  font-family: 'Roboto', serif;
+}
+
+.card:nth-child(odd) .card-header {
+  background-color: #003F87;
+}
+
+.card:nth-child(odd) .btn-link {
+  color: #FCD116;
+}
+
+.card:nth-child(even) .card-header {
+  background-color: #FCD116;
+}

@@ -1,0 +1,603 @@
+[13-Oct-2018 14:32:17 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/tempe577/public_html/tempecubscouts/email.php on line 2
+[13-Oct-2018 14:33:30 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/tempe577/public_html/tempecubscouts/email.php on line 2
+[13-Oct-2018 15:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/tempe577/public_html/tempecubscouts/contact.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/contact.php on line 9
+[13-Oct-2018 15:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/tempe577/public_html/tempecubscouts/contact.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/contact.php on line 9
+[14-Oct-2018 12:30:43 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/contact.php on line 5
+[14-Oct-2018 12:30:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/contact.php on line 5
+[14-Oct-2018 12:45:11 UTC] PHP Warning:  require_once(mail.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/contact.php on line 5
+[14-Oct-2018 12:45:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'mail.php' (include_path='/home/tempe577/php:.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/contact.php on line 5
+[16-Oct-2018 21:40:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tempe577/public_html/tempecubscouts/contact.php on line 12
+[17-Oct-2018 01:54:41 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/tempe577/public_html/tempecubscouts/contact.php on line 32
+[18-Oct-2018 11:40:03 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:41:04 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:41:59 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:42:46 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:43:06 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:43:54 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:44:36 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:45:46 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 11:53:48 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 20
+[18-Oct-2018 13:27:43 UTC] PHP Fatal error:  Cannot declare class Mail, because the name is already in use in /home/tempe577/php/Mail.php on line 58
+[18-Oct-2018 13:28:43 UTC] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:28:43 UTC] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:28:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/tempe577/public_html/tempecubscouts/contact.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/contact.php on line 16
+[18-Oct-2018 13:29:11 UTC] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:29:11 UTC] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:29:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/tempe577/public_html/tempecubscouts/contact.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/contact.php on line 16
+[18-Oct-2018 13:30:07 UTC] PHP Warning:  include(Mail.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:30:07 UTC] PHP Warning:  include(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/contact.php on line 3
+[18-Oct-2018 13:30:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/tempe577/public_html/tempecubscouts/contact.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/contact.php on line 16
+[18-Oct-2018 13:30:37 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 17
+[18-Oct-2018 13:33:24 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 17
+[19-Oct-2018 22:54:38 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 9
+[19-Oct-2018 22:57:25 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/tempe577/public_html/tempecubscouts/contact.php on line 9
+[19-Oct-2018 23:13:41 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:35:34 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:37:26 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:37:29 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[19-Oct-2018 23:41:11 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:41:14 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[19-Oct-2018 23:42:04 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:42:07 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[19-Oct-2018 23:43:17 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[19-Oct-2018 23:43:21 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:01:35 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:01:41 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:02:35 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:02:41 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:05:34 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:05:40 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:14:56 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:14:56 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:15:42 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:15:43 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:19:08 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:19:08 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:19:30 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:19:36 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:19:57 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:20:02 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:20:28 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:20:28 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:22:28 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:22:28 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:23:56 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:23:56 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:35:14 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:35:15 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:39:27 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:39:27 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[20-Oct-2018 00:40:14 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[20-Oct-2018 00:40:14 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[30-Oct-2018 00:55:17 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[30-Oct-2018 00:55:18 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[30-Oct-2018 01:07:40 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 21
+[30-Oct-2018 01:07:40 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 30
+[30-Oct-2018 03:54:59 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[30-Oct-2018 03:54:59 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 30
+[30-Oct-2018 04:10:19 UTC] PHP Notice:  Undefined variable: mail_object in /home/tempe577/public_html/tempecubscouts/email.php on line 27
+[30-Oct-2018 04:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function send() on null in /home/tempe577/public_html/tempecubscouts/email.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/email.php on line 27
+[30-Oct-2018 04:19:45 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 26
+[30-Oct-2018 04:19:45 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 37
+[30-Oct-2018 04:23:30 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 21
+[30-Oct-2018 04:23:30 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 28
+[30-Oct-2018 04:38:59 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 18
+[30-Oct-2018 04:45:37 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 20
+[30-Oct-2018 04:45:37 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 25
+[30-Oct-2018 04:48:39 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 18
+[30-Oct-2018 04:48:39 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 22
+[30-Oct-2018 04:49:18 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 20
+[30-Oct-2018 04:49:18 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 25
+[30-Oct-2018 04:55:47 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tempe577/public_html/tempecubscouts/email.php on line 13
+[30-Oct-2018 05:00:32 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 20
+[30-Oct-2018 05:00:32 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 25
+[30-Oct-2018 13:29:18 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 37
+[30-Oct-2018 13:29:18 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 41
+[04-Nov-2018 00:26:21 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/tempe577/public_html/tempecubscouts/email.php on line 22
+[04-Nov-2018 00:27:46 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/email.php on line 37
+[04-Nov-2018 00:27:46 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/email.php on line 41
+[04-Nov-2018 00:39:02 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[04-Nov-2018 00:39:02 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[04-Dec-2018 23:16:03 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[04-Dec-2018 23:16:04 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[19-Dec-2018 05:23:18 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[19-Dec-2018 05:23:18 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[01-Jan-2019 23:05:44 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[01-Jan-2019 23:05:44 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[11-Jan-2019 19:33:15 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[11-Jan-2019 19:33:15 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[14-Jan-2019 22:20:00 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[14-Jan-2019 22:20:01 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[19-Feb-2019 09:38:06 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[28-Feb-2019 16:31:26 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[28-Feb-2019 16:31:26 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[01-Apr-2019 03:16:56 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[04-Apr-2019 01:21:47 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[04-Apr-2019 01:42:35 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[28-May-2019 17:41:45 UTC] PHP Notice:  Only variables should be assigned by reference in /home/tempe577/public_html/tempecubscouts/contact.php on line 37
+[28-May-2019 17:41:45 UTC] PHP Notice:  Undefined variable: mail in /home/tempe577/public_html/tempecubscouts/contact.php on line 41
+[29-Jun-2019 07:19:11 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[09-Jul-2019 21:59:52 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[09-Jul-2019 22:00:01 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[29-Jul-2019 11:28:55 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[02-Sep-2019 21:52:29 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[09-Sep-2019 12:45:26 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[12-Sep-2019 02:57:50 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[13-Sep-2019 21:59:15 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[14-Sep-2019 08:18:59 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[06-Dec-2019 06:49:12 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[06-Dec-2019 06:49:12 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[21-Dec-2019 12:12:32 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[21-Dec-2019 12:12:33 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[21-Jan-2020 01:11:42 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[21-Jan-2020 01:12:26 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[30-Jan-2020 17:44:23 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[30-Jan-2020 17:44:25 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[12-Mar-2020 12:55:10 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[02-May-2020 09:25:53 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[08-May-2020 14:25:11 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[08-May-2020 14:25:11 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[11-May-2020 21:53:09 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[12-May-2020 18:23:49 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[17-May-2020 16:44:58 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[18-May-2020 12:21:41 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[24-May-2020 21:44:52 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[30-Jun-2020 16:38:29 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[08-Aug-2020 09:04:05 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[08-Aug-2020 09:04:06 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[22-Aug-2020 01:52:53 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[27-Aug-2020 17:27:21 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[27-Aug-2020 17:27:22 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[27-Aug-2020 22:46:12 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[27-Aug-2020 22:46:52 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[29-Aug-2020 18:14:01 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:14:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:14:07 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:14:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:14:23 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:14:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:15:18 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:15:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:16:41 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:16:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:20:58 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:20:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:21:00 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:21:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:23:28 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:23:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:23:31 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 14
+[29-Aug-2020 18:23:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/tempe577/public_html/tempecubscouts/db.php on line 20
+[29-Aug-2020 18:31:02 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'pack577'@'localhost' to database 'scouts' in /home/tempe577/public_html/tempecubscouts/db.php on line 8
+[29-Aug-2020 18:33:12 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'pack577'@'localhost' to database 'scouts' in /home/tempe577/public_html/tempecubscouts/db.php on line 8
+[29-Aug-2020 18:39:15 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'pack577'@'localhost' to database 'scouts' in /home/tempe577/public_html/tempecubscouts/db.php on line 8
+[29-Aug-2020 21:07:03 UTC] PHP Notice:  Undefined variable: den in /home/tempe577/public_html/tempecubscouts/db.php on line 22
+[29-Aug-2020 21:07:03 UTC] PHP Notice:  Undefined variable: den in /home/tempe577/public_html/tempecubscouts/db.php on line 22
+[30-Aug-2020 22:24:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tempe577/public_html/tempecubscouts/db.php on line 32
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[30-Aug-2020 22:25:20 UTC] PHP Notice:  Undefined index: id in /home/tempe577/public_html/tempecubscouts/db.php on line 35
+[31-Aug-2020 03:13:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/get-scouts.php on line 6
+[31-Aug-2020 03:13:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/get-scouts.php on line 6
+[31-Aug-2020 03:13:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/get-scouts.php on line 6
+[02-Sep-2020 02:59:31 UTC] PHP Notice:  Undefined index: scouts in /home/tempe577/public_html/tempecubscouts/submit.php on line 3
+[02-Sep-2020 12:34:19 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[02-Sep-2020 12:34:36 UTC] PHP Notice:  Undefined index: g-recaptcha-response in /home/tempe577/public_html/tempecubscouts/contact.php on line 11
+[03-Sep-2020 19:54:39 UTC] PHP Warning:  require(data.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/reports.php on line 31
+[03-Sep-2020 19:54:39 UTC] PHP Fatal error:  require(): Failed opening required 'data.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/reports.php on line 31
+[03-Sep-2020 19:55:36 UTC] PHP Warning:  require(data.php): failed to open stream: No such file or directory in /home/tempe577/public_html/tempecubscouts/reports.php on line 31
+[03-Sep-2020 19:55:36 UTC] PHP Fatal error:  require(): Failed opening required 'data.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/tempe577/public_html/tempecubscouts/reports.php on line 31
+[03-Sep-2020 20:08:12 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 33
+[03-Sep-2020 20:08:12 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 20:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/tempe577/public_html/tempecubscouts/reports.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 20:08:18 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 33
+[03-Sep-2020 20:08:18 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 20:08:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/tempe577/public_html/tempecubscouts/reports.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 20:08:48 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 32
+[03-Sep-2020 20:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tempe577/public_html/tempecubscouts/reports.php on line 33
+[03-Sep-2020 20:08:48 UTC] PHP Notice:  Undefined variable: con in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 20:08:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/tempe577/public_html/tempecubscouts/reports.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/reports.php on line 38
+[03-Sep-2020 21:33:02 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[03-Sep-2020 21:33:02 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[03-Sep-2020 21:33:02 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[03-Sep-2020 21:33:02 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 02:59:48 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 02:59:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 02:59:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 02:59:49 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 02:59:58 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 02:59:58 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 02:59:58 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 02:59:58 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 15:29:01 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 15:29:01 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 15:29:01 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 15:29:01 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 15:29:10 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 15:29:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 15:29:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 15:29:10 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 18:33:41 UTC] PHP Notice:  Undefined variable: den_name in /home/tempe577/public_html/tempecubscouts/input-requirements.php on line 41
+[04-Sep-2020 18:37:27 UTC] PHP Notice:  Undefined variable: den_id in /home/tempe577/public_html/tempecubscouts/input-requirements.php on line 38
+[04-Sep-2020 18:39:44 UTC] PHP Notice:  Undefined variable: den_name in /home/tempe577/public_html/tempecubscouts/input-requirements.php on line 41
+[04-Sep-2020 18:53:16 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 18:53:16 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 18:53:16 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 18:53:16 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 18:54:16 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 18:54:16 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 18:54:16 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 18:54:16 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[04-Sep-2020 18:54:34 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[04-Sep-2020 18:54:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[04-Sep-2020 18:54:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[04-Sep-2020 18:54:34 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[05-Sep-2020 17:52:19 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[05-Sep-2020 17:52:20 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[05-Sep-2020 17:52:20 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[05-Sep-2020 17:52:20 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 30
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 30
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 30
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 30
+[05-Sep-2020 20:43:07 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:44:16 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:47:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 25
+[05-Sep-2020 20:48:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 25
+[05-Sep-2020 20:49:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 25
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:49:57 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:50:39 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[05-Sep-2020 20:51:05 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 32
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$scout_name in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 30
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 32
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 33
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$scout_name in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 30
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 32
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 33
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$scout_name in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 30
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 32
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 33
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$scout_name in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 30
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_date in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 32
+[05-Sep-2020 21:26:37 UTC] PHP Notice:  Undefined property: stdClass::$signin_time in /home/tempe577/public_html/tempecubscouts/requirements-report.php on line 33
+[06-Sep-2020 15:30:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 88
+[06-Sep-2020 15:30:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 89
+[06-Sep-2020 15:30:42 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 94
+[06-Sep-2020 15:33:44 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 89
+[06-Sep-2020 15:33:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 90
+[06-Sep-2020 15:33:44 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/leader-menu.php on line 95
+[06-Sep-2020 15:34:25 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[06-Sep-2020 15:34:25 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[06-Sep-2020 15:34:25 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[06-Sep-2020 15:34:25 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[06-Sep-2020 15:35:32 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[06-Sep-2020 15:35:32 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[06-Sep-2020 15:35:32 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[06-Sep-2020 15:35:32 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[06-Sep-2020 15:35:59 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[06-Sep-2020 15:35:59 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[06-Sep-2020 15:35:59 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[06-Sep-2020 15:35:59 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[06-Sep-2020 17:19:25 UTC] PHP Notice:  Undefined index: scout in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 16
+[06-Sep-2020 17:26:53 UTC] PHP Notice:  Undefined index: scout in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 16
+[06-Sep-2020 20:41:19 UTC] PHP Notice:  Undefined index: scout in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 16
+[06-Sep-2020 20:41:19 UTC] PHP Notice:  Undefined index: scout in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 17
+[06-Sep-2020 21:02:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 17
+[06-Sep-2020 21:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 17
+[06-Sep-2020 21:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 17
+[06-Sep-2020 21:04:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 15
+[06-Sep-2020 21:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 15
+[06-Sep-2020 21:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_set() in /home/tempe577/public_html/tempecubscouts/record-attendance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tempe577/public_html/tempecubscouts/record-attendance.php on line 15
+[07-Sep-2020 13:32:45 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:32:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:32:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:32:45 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:35:31 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:35:31 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:35:31 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:35:31 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:35:35 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:35:35 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:35:35 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:35:35 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:36:44 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:36:44 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:36:44 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:36:44 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:37:06 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:37:06 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:37:06 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:37:06 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:44:34 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:44:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:44:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:44:34 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:44:40 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:44:40 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:44:40 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:44:40 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:44:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tempe577/public_html/tempecubscouts/signin.php on line 48
+[07-Sep-2020 13:49:10 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:49:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:49:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:49:10 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:49:15 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:49:15 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:49:15 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:49:15 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:49:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/signin.php on line 50
+[07-Sep-2020 13:49:15 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/signin.php on line 58
+[07-Sep-2020 13:49:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/tempe577/public_html/tempecubscouts/signin.php on line 60
+[07-Sep-2020 13:51:12 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:51:12 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:51:12 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:51:12 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 13:51:17 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 13:51:17 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 13:51:17 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 13:51:17 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 14:39:45 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 14:39:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 14:39:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 14:39:45 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 14:39:57 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 14:39:57 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 14:39:57 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 14:39:57 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 14:39:57 UTC] PHP Notice:  Undefined index: scout in /home/tempe577/public_html/tempecubscouts/signin.php on line 48
+[07-Sep-2020 14:39:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tempe577/public_html/tempecubscouts/signin.php on line 48
+[07-Sep-2020 14:40:07 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 14:40:07 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 14:40:07 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 14:40:07 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 14:42:25 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 14:42:25 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 14:42:25 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 14:42:25 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 15:10:10 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 15:10:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 15:10:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 15:10:10 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[07-Sep-2020 16:34:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tempe577/public_html/tempecubscouts/input-requirements.php on line 38
+[07-Sep-2020 16:43:57 UTC] PHP Notice:  Undefined index: date1 in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 30
+[07-Sep-2020 16:43:57 UTC] PHP Notice:  Undefined index: date2 in /home/tempe577/public_html/tempecubscouts/attendance-report.php on line 31
+[07-Sep-2020 19:03:58 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[07-Sep-2020 19:03:58 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[07-Sep-2020 19:03:58 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[07-Sep-2020 19:03:58 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 00:27:20 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 00:27:20 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 00:27:20 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 00:27:20 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:21:24 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:21:24 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:21:24 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:21:24 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:32:10 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:32:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:32:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:32:10 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:32:17 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:32:17 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:32:17 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:32:17 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:32:45 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:32:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:32:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:32:45 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:32:49 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:32:49 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:32:49 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:32:49 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:32:55 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:32:55 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:32:55 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:32:55 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:34:10 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:34:10 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:34:10 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:34:10 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:34:19 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:34:19 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:34:19 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:34:19 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:34:50 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:34:50 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:34:50 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:34:50 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:36:59 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:36:59 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:36:59 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:36:59 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:37:08 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:37:08 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:37:08 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:37:08 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:37:38 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:37:38 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:37:38 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:37:38 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:38:43 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:38:43 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:38:43 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:38:43 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:46:00 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:46:00 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:46:00 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:46:00 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:46:07 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:46:07 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:46:07 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:46:07 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:47:34 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:47:34 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:47:34 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:47:34 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 02:48:43 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 02:48:43 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 02:48:43 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 02:48:43 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:50:05 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:50:05 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:50:05 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:50:05 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:52:11 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:52:11 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:52:11 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:52:11 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:52:40 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:52:40 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:52:40 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:52:40 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:54:28 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:54:28 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:54:28 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:54:28 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:55:53 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:55:53 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:55:53 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:55:53 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
+[08-Sep-2020 03:57:45 UTC] PHP Notice:  Constant HOSTNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 2
+[08-Sep-2020 03:57:45 UTC] PHP Notice:  Constant DB_USERNAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 3
+[08-Sep-2020 03:57:45 UTC] PHP Notice:  Constant DB_PASSWORD already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 4
+[08-Sep-2020 03:57:45 UTC] PHP Notice:  Constant DB_NAME already defined in /home/tempe577/public_html/tempecubscouts/db.php on line 5
